@@ -131,7 +131,7 @@ header ul li:before {
 .main-block-link:after {
   content: '';
   display: block;
-  width: 10%;
+  width: 36%;
   height: 3px;
   background-color: #fff;
   margin: 0 auto;
